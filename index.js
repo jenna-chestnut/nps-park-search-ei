@@ -34,7 +34,7 @@ const handleClick = () => {
 }
 
 const apiKey = () => {
-return 'ZKKW2iUmS3v5eYduweLz1wgXVZiiVFZfiCbxvLEi';
+return '// APIKEY removed for privacy!!;
 }
 
 const main = () => {
