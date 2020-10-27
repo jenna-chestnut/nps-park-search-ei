@@ -1,37 +1,45 @@
 body {
-    text-align: center;
-    font-family: arial;
+  text-align: center;
+  font-family: arial;
 }
 
 main {
-    max-width: 700px;
-    margin: auto;
+  max-width: 700px;
+  margin: auto;
 }
 
-input {
-    text-align: center;
-    display: block;
-    margin: 2% auto;
-    padding: 1%;
-    background-color: white;
-    border: 1px solid black;
-    border-radius: none;
+input[type="text"], input[type="number"] {
+  text-align: center;
+  display: block;
+  margin: 2% auto;
+  padding: 1%;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: none;
+}
+
+input[type="button"], input[type="submit"] {
+  margin: 0 auto;
+  padding: 1%;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: none;
 }
 
 img {
-    width: 100%;
-    max-width: 500px;
-    margin: 10px;
+  width: 100%;
+  max-width: 500px;
+  margin: 10px;
 }
 
 label {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 a {
-    font-weight: lighter;
+  font-weight: lighter;
 }
 
 h2 {
-    padding-top: 3%;
+  padding-top: 3%;
 }
