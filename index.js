@@ -60,7 +60,7 @@ const handleReset = () => {
 }
 
 const apiKey = () => {
-    return 'ZKKW2iUmS3v5eYduweLz1wgXVZiiVFZfiCbxvLEi';
+    return // removed for privacy!!;
 }
 
 const main = () => {
